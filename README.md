@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm SALY👻</h1>
-<h3 align="center">✦ CPE_2 ✦</h3>
+<h3 align="center">✦ stop! don't talk to me ✦</h3>
 <p align="left">
-💻 Student of Computer Engineering. <br>
-🎓 Rajamangala University of Technology Thanyaburi. 
+ just kidding.😂<br>
+ please talk to me I want to be your friend.
 </p>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchananppeve&show_icons=true&theme=radical)
